@@ -3,6 +3,6 @@ package cz.ttkacik.test;
 public class Test {
 
     public static void main(String args) {
-        System.out.println("Změna č. 1");
+        System.out.println("Změna č. 2");
     }
 }
